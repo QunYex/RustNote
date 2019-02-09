@@ -4,3 +4,11 @@
 
 2. I will share the resources from web.
 
+
+---
+
+$$ resource $$
+
+rustup: https://github.com/rust-lang/rustup.rs#installation
+
+
