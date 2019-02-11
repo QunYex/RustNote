@@ -11,7 +11,7 @@
     * ./main
 
 * if and let
-    ```
+    ```rust
     fn main() {
     let condition = true;
     let number = if condition {
